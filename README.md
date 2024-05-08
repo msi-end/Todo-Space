@@ -2,6 +2,7 @@
 
 
 
+
 # Getting Started with *Todo Space*
 
 This project was Created for lot of Improvements and Contributions .
@@ -45,6 +46,20 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ### ![](https://raw.githubusercontent.com/msi-end/Todo-Space/main/screenshot/Screenshot%20at%202024-05-08%2015-55-38.png)
 
 
+
+## Key Features
+
+- **Task Creation:** Users can easily add new tasks by simply typing them into the input field and hitting enter. The application provides instant feedback, making task creation a smooth experience.
+
+- **Task List:** All tasks are neatly displayed in a list format, providing users with a clear overview of their pending tasks. Each task is accompanied by options for editing and deleting.
+
+- **Task Filtering:** Users can filter tasks based on their completion status, allowing them to focus on pending tasks or view completed ones. This feature enhances productivity by providing users with tailored task lists.
+
+- **Task Editing:** Need to make changes to a task? No problem. The application allows users to edit task names directly inline, ensuring flexibility and convenience in task management.
+
+- **Task Deletion:** Completed or redundant tasks can be easily deleted with a single click. This feature helps users maintain a clutter-free task list, promoting better organization and focus.
+
+- **Responsive Design:** The application is designed to be responsive across various devices and screen sizes, ensuring a seamless user experience whether accessed on desktops, tablets, or smartphones.
 
 ## **Contribution:** 
 
