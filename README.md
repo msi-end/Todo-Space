@@ -46,7 +46,17 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 
 
-## Learn More
+## **Contribution:** 
+
+Contributions to the project are welcome! Whether it's bug fixes, feature enhancements, or code optimizations, contributors can fork the repository, make their changes, and submit pull requests for review. Detailed contribution guidelines and code conventions are provided to ensure consistency and maintainability within the project.
+
+## **License:** 
+
+The React Todo-Space Application is open-source and licensed under the MIT License, granting users the freedom to use, modify, and distribute the software as per their requirements.
+
+
+
+## Learn More(React.js things)
 
 ### Code Splitting
 
