@@ -47,7 +47,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 
 
-## Key Features
+## Key Features & Upcoming Features
 
 - **Task Creation:** Users can easily add new tasks by simply typing them into the input field and hitting enter. The application provides instant feedback, making task creation a smooth experience.
 
