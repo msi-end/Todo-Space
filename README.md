@@ -1,15 +1,24 @@
-# Getting Started with Create React App
+![](https://raw.githubusercontent.com/msi-end/Todo-Space/main/src/img/logo.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+# Getting Started with *Todo Space*
+
+This project was Created for lot of Improvements and Contributions .
+
+Check-out Live Demo : 
+
+## Scripts to Run the Project
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm install `
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs to install all the required packages in the development mode.
+
+### `npm start `
+
+Runs the project , Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -39,11 +48,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## User Interface (UI)
+
+### ![](https://raw.githubusercontent.com/msi-end/Todo-Space/main/screenshot/Screenshot%20at%202024-05-08%2015-55-38.png)
+
+
+
 ## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
@@ -65,6 +76,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
